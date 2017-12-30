@@ -1,1 +1,0 @@
-# Minimo_training
