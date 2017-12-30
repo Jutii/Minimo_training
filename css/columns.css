@@ -1,0 +1,25 @@
+
+
+.col1 {
+	grid-area: col1;
+	float: left;
+	margin-bottom: 4.0vw;
+}
+
+.col2 {
+	grid-area: col2;
+	float: right;	
+	margin-bottom: 4.0vw;
+}
+
+.col3 {
+	grid-area: col3;
+	float: left;
+	margin-bottom: 4.0vw;
+}
+
+.col4 {
+	grid-area: col4;
+	float: right;
+	margin-bottom: 4.0vw;
+}

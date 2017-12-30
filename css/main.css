@@ -1,0 +1,39 @@
+
+
+body {
+    min-width: 10vw;
+    text-align: justify;
+}
+
+.post {
+    margin: 2.0vw 4.0vw 0vw 4.0vw;
+}
+
+.archive {
+    margin: 2.0vw 4.0vw 0vw 4.0vw;
+    display: grid;
+    grid-gap: 2.1vw;
+    grid-template-areas:
+            "col1 col2"
+            "col3 col4";
+}
+
+.archive_2 {
+    margin: 2.0vw 4.0vw 0vw 4.0vw;
+    display: grid;
+    grid-gap: 2.1vw;
+    grid-template-areas:
+            "col1 col2";
+}
+
+.head_b {
+    color: dimgray;
+    background-color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 8.5vw;
+    cursor: pointer;
+    font-size: 1.3vw;
+    font-family: serif; 
+}

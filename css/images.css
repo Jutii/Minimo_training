@@ -1,0 +1,12 @@
+.large__images {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.small__images {
+    max-width: 477px;
+    max-height: 315px;
+}

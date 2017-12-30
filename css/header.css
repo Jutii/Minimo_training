@@ -1,0 +1,20 @@
+
+
+.header__title {
+    font-size: 2.5vw;
+    grid-area: header__title;
+    color: black;
+}
+
+.header__buttons {
+    float: right;
+    grid-area: header__buttons;
+    }
+
+.header {
+    display: grid;
+    font-family: fantasy;
+    grid-template-columns: 33% 67%;
+    grid-template-areas:
+        "header__title header__buttons";
+}
